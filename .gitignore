@@ -2,5 +2,3 @@
 *.pyc
 src/.ipynb_checkpoints/*
 src/.udacity-pa/projects.py
-*.zip
-*.json
